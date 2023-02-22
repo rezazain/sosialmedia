@@ -1,9 +1,9 @@
-import Home from "./page/home/Home";
+import GetData from "./components/getdata/GetData";
 
 function App() {
   return (
     <div>
-      <Home />
+      <GetData />
     </div>
   );
 }
